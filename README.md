@@ -1,10 +1,10 @@
 # ballwars
-* This is a simple Game where your Goal is to win against your Opponent.
+*This is a simple Game where your Goal is to win against your Opponent.
 You can either play against an AI or against another Player with Bouncers that you cant disable.
 In this Game you win by scoring an amount of Goals that you can choose in the Settings Menu
 But be aware that there are Mini-Cannons that shoot at you but prioritize the Lazyball
 And you can shoot in this Game using Cannons that are attached to your Ball.
-There are 2 Difficulties that you can choose.*
+There are 2 Difficulties that you can choose*
 
 ### Normal Mode
 
@@ -35,6 +35,10 @@ Shooting:B
 
 # Credits
 BIGm0 and BakTheBig and HorstJens
+
+Note:you need python3 from https://www.python.org/downloads/
+python 3 needed!
+and you need pygame from https://www.pygame.org/download.shtml
 
 
 
