@@ -13,11 +13,14 @@ There are 2 Difficulties that you can choose.
 ### Extreme Mode
 
 **Your Opponent dashes at you very often and very quickly and may even break the Game, to reset the Balls use**
-1. Player1
+1. Player1:
+
 Use 8
-1. Player2 or the AI
+1. Player2 or the AI:
+
 Use 9
-1. The Lazyball
+1. The Lazyball:
+
 Use 0
  
 ### Controls
